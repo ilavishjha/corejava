@@ -14,7 +14,7 @@ public class TestCustomer {
 	System.out.println(c2.name);
 	System.out.println(c2.account.balance);
 	
-	Customer c12=new Customer();
+	//Customer c12=new Customer();
 	
 			
 	}
